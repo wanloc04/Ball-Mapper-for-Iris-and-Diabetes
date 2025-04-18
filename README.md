@@ -61,3 +61,7 @@ This project requires Python 3.8 or later and the following Python packages:
 
 All dependencies can be installed via:
 
+
+## Author
+
+This repository is maintained by Pham Quang Loc. For any questions or contributions, please contact pquangloc21062004@gmail.com.
